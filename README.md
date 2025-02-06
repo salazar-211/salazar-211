@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/jjayv_11" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/40px-Instagram_logo_2016.svg.png" alt="Instagram">
   </a>
 </p>
 
