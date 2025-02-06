@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1cXAzOTdhNTJoY3JraTI3cTM0ZDFoZDRxZnUyNW01c2E5MGV5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBSsIKHZB1jb6log86/giphy.gif" alt="Coding Animation" width="120">
-</p>
+
+
 <h1 align="center">Hi 👋, I'm Jayvie</h1>
 <h3 align="center">A passionate software Developer from Philippines</h3>
 
