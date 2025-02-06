@@ -1,4 +1,4 @@
-<!-- Animated Banner (Optional) --> <p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" width="500"> </p> <h1 align="center">Hi 👋, I'm Jayvie</h1> <h3 align="center">A passionate Software Developer from the Philippines</h3>
+<!-- Animated Banner (Optional) --> <p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" width="100"> </p> <h1 align="center">Hi 👋, I'm Jayvie</h1> <h3 align="center">A passionate Software Developer from the Philippines</h3>
 🔭 I’m currently working on CBMMS
 🌱 I’m currently learning LARAVEL
 📫 How to reach me: jayviemendoza21@gmail.com
