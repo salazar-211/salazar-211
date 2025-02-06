@@ -1,4 +1,7 @@
- <p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1cXAzOTdhNTJoY3JraTI3cTM0ZDFoZDRxZnUyNW01c2E5MGV5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBSsIKHZB1jb6log86/giphy.gif" alt="Coding Animation" width="100"> </p> <h1 align="center">Hi 👋, I'm Jayvie</h1> <h3 align="center">A passionate Software Developer from the Philippines</h3>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1cXAzOTdhNTJoY3JraTI3cTM0ZDFoZDRxZnUyNW01c2E5MGV5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBSsIKHZB1jb6log86/giphy.gif" alt="Coding Animation" width="100">
+</p>
+</p> <h1 align="center">Hi 👋, I'm Jayvie</h1> <h3 align="center">A passionate Software Developer from the Philippines</h3>
 🔭 I’m currently working on CBMMS
 🌱 I’m currently learning LARAVEL
 📫 How to reach me: jayviemendoza21@gmail.com
